@@ -1,0 +1,999 @@
+﻿The Project Gutenberg eBook of A history of land mammals in the Western Hemisphere
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: A history of land mammals in the Western Hemisphere
+
+Author: William Berryman Scott
+
+Release date: January 14, 2025 [eBook #75110]
+
+Language: English
+
+Original publication: New York: The MacMillan Company, 1913
+
+Credits: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK A HISTORY OF LAND MAMMALS IN THE WESTERN HEMISPHERE ***
+
+
+
+
+
+
+           A HISTORY OF LAND MAMMALS IN THE WESTERN HEMISPHERE
+
+                              [Illustration]
+
+                          THE MACMILLAN COMPANY
+                   NEW YORK · BOSTON · CHICAGO · DALLAS
+                         ATLANTA · SAN FRANCISCO
+
+                         MACMILLAN & CO., LIMITED
+                        LONDON · BOMBAY · CALCUTTA
+                                MELBOURNE
+
+                    THE MACMILLAN CO. OF CANADA, LTD.
+                                 TORONTO
+
+
+
+
+[Illustration: FRONTISPIECE.—A Pleistocene tar-pool in southern
+California: †Giant Wolves (_Canis †dirus_) and †Sabre-tooth Tiger
+(_†Smilodon californicus_) on the carcass of an elephant (_Elephas
+†columbi_). The elephant is hairless, as may have been true of the
+southern race.]
+
+
+
+
+                                    A
+                         HISTORY OF LAND MAMMALS
+                                  IN THE
+                            WESTERN HEMISPHERE
+
+                                    BY
+                             WILLIAM B. SCOTT
+     PH.D. (Heidelberg), HON.D.SC. (Harvard & Oxford), LL.D. (Univ.
+                            of Pennsylvania)
+
+               BLAIR PROFESSOR OF GEOLOGY AND PALÆONTOLOGY
+                         IN PRINCETON UNIVERSITY
+
+          _ILLUSTRATED WITH 32 PLATES AND MORE THAN 100 DRAWINGS
+                            BY BRUCE HORSFALL_
+
+                                 New York
+                          THE MACMILLAN COMPANY
+                                   1913
+
+                          _All rights reserved_
+
+                             COPYRIGHT, 1913,
+                        BY THE MACMILLAN COMPANY.
+
+            Set up and electrotyped. Published November, 1913.
+
+                              Norwood Press
+                  J. S. Cushing Co.—Berwick & Smith Co.
+                          Norwood, Mass., U.S.A.
+
+
+
+
+Dedicated
+
+TO
+
+MY CLASSMATES
+
+HENRY FAIRFIELD OSBORN AND FRANCIS SPEIR
+
+IN MEMORY OF A NOTABLE SUMMER AFTERNOON IN 1876 AND IN TOKEN OF FORTY
+YEARS’ UNCLOUDED FRIENDSHIP
+
+
+
+
+    Speak to the earth and it shall teach thee.
+
+                                                       —JOB, xii, 8.
+
+    Can these bones live?
+
+                                                —EZEKIEL, xxxvii, 3.
+
+
+
+
+PREFACE
+
+
+One afternoon in June, 1876, three Princeton undergraduates were lying
+under the trees on the canal bank, making a languid pretence of preparing
+for an examination. Suddenly, one of the trio remarked: “I have been
+reading an old magazine article which describes a fossil-collecting
+expedition in the West; why can’t we get up something of the kind?” The
+others replied, as with one voice, “We can; let’s do it.” This seemingly
+idle talk was, for Osborn and myself, a momentous one, for it completely
+changed the careers which, as we then believed, had been mapped out for
+us. The random suggestion led directly to the first of the Princeton
+palæontological expeditions, that of 1877, which took us to the “Bad
+Lands” of the Bridger region in southwestern Wyoming. The fascination of
+discovering and exhuming with our own hands the remains of the curious
+creatures which once inhabited North America, but became extinct ages
+ago, has proved an enduring delight. It was the wish to extend something
+of this fascinating interest to a wider circle, that occasioned the
+preparation of this book.
+
+The western portion of North America has preserved a marvellous series
+of records of the successive assemblages of animals which once dwelt
+in this continent, and in southernmost South America an almost equally
+complete record was made of the strange animals of that region. For
+the last half-century, or more, many workers have coöperated to bring
+this long-vanished world to light and to decipher and interpret the
+wonderful story of mammalian development in the western hemisphere. The
+task of making this history intelligible, not to say interesting, to the
+layman, has been one of formidable difficulty, for it is recorded in
+the successive modifications of the bones and teeth, and without some
+knowledge of osteology, these records are in an unknown tongue. To meet
+this need, Chapter III gives a sketch of the mammalian skeleton and
+dentition, which the reader may use as the schoolboy uses a vocabulary
+to translate his Latin exercise, referring to it from time to time, as
+may be necessary to make clear the descriptions of the various mammalian
+groups. Technical terms have been avoided as far as possible, but,
+unfortunately, it is not practicable to dispense with them altogether.
+The appended glossary will, it is hoped, minimize the inconvenience.
+
+No one who has not examined it, can form any conception of the enormous
+mass and variety of material, illustrating the history of American
+mammals, which has already been gathered into the various museums. A full
+account of this material would require many volumes, and one of the chief
+problems in the preparation of this book has been that of making a proper
+selection of the most instructive and illuminating portions of the long
+and complicated story. Indeed, so rapid is the uninterrupted course of
+discovery, that parts of the text became antiquated while in the press
+and had to be rewritten. As first prepared, the work proved to be far
+too long and it was necessary to excise several chapters, for it seemed
+better to cover less ground than to make the entire history hurried and
+superficial. The plan of treatment adopted involves a considerable amount
+of repetition, but this is perhaps not a disadvantage, since the same
+facts are considered from different points of view.
+
+The facts which are here brought together have been ascertained by
+many workers, and I have borrowed with the greatest freedom from my
+fellow labourers in the field of palæontology. As every compiler of a
+manual finds, it is not feasible to attribute the proper credit to each
+discoverer. Huxley has so well explained the situation in the preface to
+his “Anatomy of Vertebrated Animals,” that I may be permitted to borrow
+his words: “I have intentionally refrained from burdening the text with
+references; and, therefore, the reader, while he is justly entitled to
+hold me responsible for any errors he may detect, will do well to give me
+no credit for what may seem original, unless his knowledge is sufficient
+to render him a competent judge on that head.”
+
+A book of this character is obviously not the proper place for polemical
+discussions of disputed questions. Whenever, therefore, the views
+expressed differ widely from those maintained by other palæontologists,
+I have attempted no more than to state, as fairly as I could, the
+alternative interpretations and my own choice between them. Any other
+course was forbidden by the limitations of space.
+
+It is a pleasure to give expression to my sincere sense of gratitude
+to the many friends who have helped me in an unusually laborious
+undertaking. Professor Osborn and Dr. Matthew have placed at my disposal
+the wonderful treasures of the American Museum of Natural History in New
+York and in the most liberal manner have supplied me with photographs and
+specimens for drawings, as well as with information regarding important
+discoveries which have not yet been published. Dr. W. J. Holland,
+Director of the Carnegie Museum in Pittsburgh, has likewise generously
+provided many photographs from the noble collection under his charge,
+kindly permitting the use of material still undescribed. To Professor
+Charles Schuchert, of Yale University, I am also indebted for several
+photographs.
+
+The figures of existing animals are almost all from photographs taken
+in the New York and London zoölogical gardens, and I desire to thank
+Director Hornaday, of the Bronx Park, and Mr. Peacock, of the London
+garden, for the very kind manner in which they have procured these
+illustrations for my use. The photographs have been modified by painting
+out the backgrounds of cages, houses, and the like, so as to give a less
+artificial appearance to the surroundings.
+
+To my colleagues at Princeton I am under great obligations for much
+valuable counsel and assistance. Professor Gilbert van Ingen has prepared
+the maps and diagrams and Dr. W. J. Sinclair has devoted much labour
+and care to the illustrations and has also read the proofs. Both of
+these friends, as also Professors C. H. Smyth and E. G. Conklin and Drs.
+Farr and McComas, have read various parts of the manuscript and made
+many helpful suggestions in dealing with the problems of treatment and
+presentation.
+
+For thirteen years past I have been engaged in the study of the great
+collections of fossil mammals, gathered in Patagonia by the lamented Mr.
+Hatcher and his colleague, Mr. Peterson, now of the Carnegie Museum.
+This work made it necessary for me to visit the museums of the Argentine
+Republic, which I did in 1901, and was there received with the greatest
+courtesy and kindness by Dr. F. Moreno, Director, and Dr. Santiago Roth,
+of the La Plata Museum, and Dr. F. Ameghino, subsequently Director of the
+National Museum at Buenos Aires. To all of these gentlemen the chapters
+on the ancient life of South America are much indebted, especially to
+Dr. Ameghino, whose untimely death was a great loss to science. It is
+earnestly to be hoped that the heroic story of his scientific career may
+soon be given to the world.
+
+Finally, I desire to thank Mr. Horsfall for the infinite pains and care
+which he has expended upon the illustrations for the work, to which so
+very large a part of its value is due.
+
+While the book is primarily intended for the lay reader, I cannot but
+hope that it may also be of service to many zoölogists, who have been
+unable to keep abreast of the flood of palæontological discovery and yet
+wish to learn something of its more significant results. How far I have
+succeeded in a most difficult task must be left to the judgment of such
+readers.
+
+    PRINCETON, N.J., June 1, 1913.
+
+
+
+
+CONTENTS
+
+
+                                                                      PAGE
+
+                                CHAPTER I
+
+  METHODS OF INVESTIGATION—GEOLOGICAL                                    1
+
+                               CHAPTER II
+
+  METHODS OF INVESTIGATION—PALÆONTOLOGICAL                              29
+
+                               CHAPTER III
+
+  THE CLASSIFICATION OF THE MAMMALIA                                    50
+
+                               CHAPTER IV
+
+  THE SKELETON AND TEETH OF MAMMALS                                     61
+
+                                CHAPTER V
+
+  THE GEOGRAPHICAL DEVELOPMENT OF THE AMERICAS IN CENOZOIC TIMES        99
+
+                               CHAPTER VI
+
+  THE GEOGRAPHICAL DISTRIBUTION OF MAMMALS                             135
+
+                               CHAPTER VII
+
+  THE SUCCESSIVE MAMMALIAN FAUNAS OF NORTH AND SOUTH AMERICA           192
+
+                              CHAPTER VIII
+
+  HISTORY OF THE PERISSODACTYLA                                        288
+
+                               CHAPTER IX
+
+  HISTORY OF THE ARTIODACTYLA                                          358
+
+                                CHAPTER X
+
+  HISTORY OF THE PROBOSCIDEA                                           422
+
+                               CHAPTER XI
+
+  HISTORY OF THE †AMBLYPODA AND †CONDYLARTHRA                          443
+
+                               CHAPTER XII
+
+  HISTORY OF THE †TOXODONTIA (OR †NOTOUNGULATA)                        461
+
+                              CHAPTER XIII
+
+  HISTORY OF THE †LITOPTERNA AND †ASTRAPOTHERIA                        489
+
+                               CHAPTER XIV
+
+  HISTORY OF THE CARNIVORA                                             516
+
+                               CHAPTER XV
+
+  HISTORY OF THE PRIMATES                                              577
+
+                               CHAPTER XVI
+
+  HISTORY OF THE EDENTATA                                              589
+
+                              CHAPTER XVII
+
+  HISTORY OF THE MARSUPIALIA                                           624
+
+                              CHAPTER XVIII
+
+  MODES OF MAMMALIAN EVOLUTION                                         645
+
+  GLOSSARY                                                             665
+
+  INDEX                                                                675
+
+
+
+
+A HISTORY OF LAND MAMMALS IN THE WESTERN HEMISPHERE
+
+
+
+
+CHAPTER I
+
+METHODS OF INVESTIGATION—GEOLOGICAL
+
+
+The term _Mammal_ has no exact equivalent in the true vernacular of
+any modern language, the word itself, like its equivalents, the French
+_Mammifère_ and the German _Säugethier_, being entirely artificial. As
+a name for the class Linnæus adopted the term Mammalia, which he formed
+from the Latin _mamma_ (_i.e._ teat) to designate those animals which
+suckle their young; hence the abbreviated form Mammal, which has been
+naturalized as an English word. “Beast,” as employed in the Bible, and
+“Quadruped” are not quite the same as mammal, for they do not include the
+marine forms, such as whales, dolphins, seals, walruses, or the flying
+bats, and they are habitually used in contradistinction to Man, though
+Man and all the forms mentioned are unquestionably mammals.
+
+In attempting to frame a definition of the term _Mammal_, it is
+impossible to avoid technicalities altogether, for it is the complete
+unity of plan and structure which justifies the inclusion of all the
+many forms that differ so widely in habits and appearance. _Mammals are
+air-breathing vertebrates, which are warm-blooded and have a 4-chambered
+heart; the body cavity is divided into pleural and abdominal chambers
+by a diaphragm; except in the lowest division of the class, the young
+are brought forth alive and are always suckled, the milk glands being
+universal throughout the class. In the great majority of mammals the
+body is clothed with hair; a character found in no other animals. In
+a few mammals the skin is naked, and in still fewer there is a partial
+covering of scales._ The list of characters common to all mammals, which
+distinguish them from other animals, might be indefinitely extended,
+for it includes all the organs and tissues of the body, the skeletal,
+muscular, digestive, nervous, circulatory, and reproductive systems, but
+the two or three more obvious or significant features above selected will
+suffice for the purposes of definition.
+
+While the structural plan is the same throughout the entire class,
+there is among mammals a wonderful variety of form, size, appearance,
+and adaptation to special habits. It is as though a musician had taken
+a single theme and developed it into endless variations, preserving
+an unmistakable unity through all the changes. Most mammals are
+_terrestrial_, living, that is to say, not only on the land, but on the
+ground, and are herbivorous in habit, subsisting chiefly or exclusively
+upon vegetable substances, but there are many departures from this mode
+of life. It should be explained, however, that the term _terrestrial_ is
+frequently used in a more comprehensive sense for all land mammals, as
+distinguished from those that are aquatic or marine. Monkeys, Squirrels,
+Sloths and Opossums are examples of the numerous _arboreal_ mammals,
+whose structure is modified to fit them for living and sleeping in the
+trees, and in some, such as the Sloths, the modification is carried so
+far that the creature is almost helpless on the ground. Another mode of
+existence is the burrowing or _fossorial_, the animal living partly or
+mostly, or even entirely underground, a typical instance of which is the
+Mole. The Beaver, Muskrat and Otter, to mention only a few forms, are
+_aquatic_ and spend most of their life in fresh waters, though perfectly
+able to move about on the land. _Marine_ mammals, such as the Seals and
+Whales, have a greatly modified structure which adapts them to life in
+the sea.
+
+Within the limits of each of these categories we may note that there
+are many degrees of specialization or adaptation to particular modes of
+life. Thus, for example, among the marine mammals, the Whales and their
+allies, Porpoises, etc., are so completely adapted to a life in the
+seas that they cannot come upon the land, and even stranding is fatal
+to them, while the Seals frequently land and move about upon the shore.
+It should further be observed that mammals of the most diverse groups
+are adapted to similar modes of existence. Thus in one natural group or
+_order_ of related forms, occur terrestrial, burrowing, arboreal and
+aquatic members, and the converse statement is of course equally true,
+that animals of similar life-habits are not necessarily related to one
+another, and very frequently, in fact, are not so related. Among the
+typically marine mammals, for example, there are at least three and
+probably four distinct series, which have independently become adapted to
+life in the sea.
+
+       *       *       *       *       *
+
+Before attempting to set forth an outline of what has been learned
+regarding the history of mammalian life in the western hemisphere, it
+is essential to give the reader some conception of the manner in which
+that knowledge has been obtained. Without such an understanding of the
+methods employed in the investigation the reader can only blindly accept
+or as blindly reject what purports to be the logical inference from
+well-established evidence. How is that evidence to be discovered? and how
+may trustworthy conclusions be derived from it?
+
+The first and most obvious step is to gather all possible information
+concerning the mammals of the present day, their structure (comparative
+anatomy), functions (physiology), and their geographical arrangement.
+This latter domain, of the geographical distribution of mammals, is one
+of peculiar significance. Not only do the animals of North America differ
+radically from those of Central and South America, but within the limits
+of each continent are more or less well-defined areas, the animals of
+which differ in a subordinate degree from those of other areas. The study
+of the modern world, however, would not of itself carry us very far
+toward the goal of our inquiries, which is an _explanation_, not merely
+a statement, of the facts. The present order of things is the outcome
+of an illimitably long sequence of events and can be understood only in
+proportion to our knowledge of the past. In other words, it is necessary
+to treat the problems involved in our inquiry _historically_; to trace
+the evolution of the different mammalian groups from their simpler
+beginnings to the more complex and highly specialized modern forms; to
+determine, so far as that may be done, the place of origin of each group
+and to follow out their migrations from continent to continent.
+
+While we shall deal chiefly, almost exclusively, with the mammals of the
+New World, something must be said regarding those of other continents,
+for, as will be shown in the sequel, both North and South America have,
+at one time or another, been connected with various land-masses of the
+eastern hemisphere. By means of those land-connections, there has been
+an interchange of mammals between the different continents, and each
+great land-area of the recent world contains a more or less heterogeneous
+assemblage of forms of very diverse places of origin. Indeed, migration
+from one region to another has played a most important part in bringing
+about the present distribution of living things. From what has already
+been learned as to the past life of the various continents and their
+shifting connections with one another, it is now feasible to analyze the
+mammalian faunas of most of them and to separate the indigenous from the
+immigrant elements. Among the latter may be distinguished those forms
+which are the much modified descendants of ancient migrants from those
+which arrived at a much later date and have undergone but little change.
+To take a few examples from North America, it may be said that the Bears,
+Moose, Caribou and Bison are late migrants from the Old World; that the
+Virginia and Black-tailed Deer and the Prong-horned Antelope are of
+Old World origin, but their ancestors came in at a far earlier period
+and the modern species are greatly changed from the ancestral migrants.
+The Armadillo of Texas and the Canada Porcupine are almost the only
+survivors, north of Mexico, of the great migration of South American
+mammals which once invaded the northern continent. On the other hand,
+the raccoons and several families of rodents are instances of indigenous
+types which may be traced through a long American ancestry.
+
+Fully to comprehend the march of mammalian development, it thus becomes
+necessary to reconstruct, at least in outline, the geography of the
+successive epochs through which the developmental changes have taken
+place, the connections and separations of land-masses, the rise of
+mountain ranges, river and lake systems and the like. Equally significant
+factors in the problem are climatic changes, which have had a profound
+and far-reaching effect upon the evolution and geographical spread of
+animals and plants, and the changes in the vegetable world must not be
+ignored, for, directly or indirectly, animals are dependent upon plants.
+To one who has paid no attention to questions of this kind, it might well
+seem an utterly hopeless task to reconstruct the long vanished past, and
+he would naturally conclude that, at best, only fanciful speculations,
+with no foundation of real knowledge, could be within our reach. Happily,
+such is by no means the case. Geology offers the means of a successful
+attack upon these problems and, although very much remains to be done,
+much has already been accomplished in elucidating the history, especially
+in its later periods, with which the story of the mammals is more
+particularly concerned.
+
+It is manifestly impossible to present here a treatise upon the science
+of Geology, even in outline sketch. Considerations of space are
+sufficient to forbid any such attempt. Certain things must be taken for
+granted, the evidence for which may be found in any modern text-book of
+Geology. For example, it is entirely feasible to establish the mode of
+formation of almost any rock (aside from certain problematical rocks,
+which do not enter into our discussion) and to determine whether it
+was laid down in the sea, or on the land, or in some body of water not
+directly connected with the sea, such as a lake or river. With the aid
+of the microscope, it is easy to discriminate volcanic material from
+the ordinary water-borne and wind-borne sediments and, in the case of
+the rocks which have solidified from the molten state, to distinguish
+those masses which have cooled upon the surface from those which have
+solidified deep within the earth.
+
+While the nature and mode of formation of the rocks may thus be
+postulated, it will be needful to explain at some length the character of
+the evidence from which the history of the earth may be deciphered. First
+of all, must be made clear the method by which the events of the earth’s
+history may be arranged in chronological order, for a history without
+chronology is unintelligible. The events which are most significant for
+our purpose are recorded in the rocks which are called _stratified,
+bedded or sedimentary_, synonymous terms. Such rocks were made mostly
+from the débris of older rocks, in the form of gravel, sand or mud, and
+were laid down under water, or, less extensively, spread by the action of
+the wind upon a land-surface. Important members of this group of rocks
+are those formed, more or less completely, from the finer fragments given
+out in volcanic eruptions, carried and sorted by the wind and finally
+deposited, it may be at great distances from their point of origin,
+upon a land-surface, or on the bottom of some body of water. Stratified
+or bedded rocks, as their name implies, are divided into more or less
+parallel layers or beds, which may be many feet or only a minute fraction
+of an inch in thickness. Such a division means a pause in the process of
+deposition or a change in the character of the material deposited over
+a given area. Owing to the operation of gravity, the layers of sediment
+are spread out in a horizontal attitude, which disregard the minor
+irregularities of the bottom, just as a deep snow buries the objects
+which lie upon the surface.
+
+A moment’s consideration will show that, in any series of stratified
+rocks which have not been greatly disturbed from their original
+horizontal position, _the order of succession or superposition of the
+beds must necessarily be the chronological order of their formation_.
+(Fig. 1.) Obviously, the lowest beds must have been deposited first and
+therefore are the oldest of the series, while those at the top must
+be the newest or youngest and the beds intermediate in position are
+intermediate in age. This inference depends upon the simple principle
+that each bed must have been laid down before the next succeeding
+one can have been deposited upon it. While this is so clear as to be
+almost self-evident, it is plain that such a mode of determining the
+chronological order of the rocks of the earth’s crust can be of only
+local applicability and so far as the beds may be traced in unbroken
+continuity. It is of no direct assistance in correlating the events in
+the history of one continent with those of another and it fails even in
+comparing the distinctly separated parts of the same continent. Some
+method of universal applicability must be devised before the histories of
+scattered regions can be combined to form a history of the earth. Such a
+universal method is to be found in the _succession of the forms of life_,
+so far as that is recorded in the shape of _fossils_, or the recognizable
+remains of animal and vegetable organisms preserved in the rocks.
+
+[Illustration: FIG. 1.—Diagram section of a series of beds, illustrating
+superposition. A is the oldest, B, C, D, etc., succeeding in ascending
+order.]
+
+This principle was first enunciated by William Smith, an English
+engineer, near the close of the eighteenth century, who thus laid the
+foundations of Historical Geology. In the diagram, Fig. 2, is reproduced
+Smith’s section across England from Wales to near London, which shows
+the successive strata or beds, very much tilted from their original
+horizontal position by the upheaval of the sea-bed upon which they
+were laid down. The section pictures the side of an imaginary gigantic
+trench cut across the island and was constructed by a simple geometrical
+method from the surface exposures of the beds, such as mining engineers
+continually employ to map the underground extension of economically
+important rocks, and shows how an enormous thickness of strata may be
+studied from the surface. The older beds are exposed at the western end
+of the section in Wales and, passing eastward, successively later and
+later beds are encountered, the newest appearing at the eastern end. Very
+many of the strata are richly fossiliferous, and thus a long succession
+of fossils was obtained in the _order of their appearance_, and this
+order has been found to hold good, not only in England, but throughout
+the world. The order of succession of the fossils was thus in the first
+instance actually ascertained from the succession of the strata in which
+they are found and has been verified in innumerable sections in many
+lands and is thus a matter of observed and verifiable fact, not merely
+a postulate or working hypothesis. Once ascertained, however, the order
+of succession of living things upon the earth may be then employed as an
+independent and indispensable means of geologically dating the rocks in
+which they occur.
+
+[Illustration: FIG. 2.—William Smith’s section across the south of
+England. The vertical scale is exaggerated, which makes the inclination
+of the beds appear too steep.
+
+N. B. The original drawing is in colors, which are not indicated by the
+dotted strata.]
+
+This is the _palæontological method_, which finds analogies in many
+other branches of learned inquiry. The student of manuscripts discovers
+that there is a development, or regular series of successive changes,
+in handwriting, and from the handwriting alone can make a very close
+approximation to the date of a manuscript. The order in which those
+changes came about was ascertained from the comparative study of
+manuscripts, the date of which could be ascertained from other evidence,
+but, when once established, the changes in handwriting are used to fix
+the period of undated manuscripts. Just so, the succession of fossils,
+when learned from a series of superposed beds, may then be employed to
+fix the geological date of strata in another region. Similarly, the
+archæologist has observed that there is an evolution or development in
+every sort of the work of men’s hands and therefore makes use of coins,
+inscriptions, objects of art, building materials and methods, etc., to
+date ancient structures. In the German town of Trier (or Trèves) on the
+Moselle, the cathedral has as a nucleus a Roman structure, the date and
+purpose of which had long been matters of dispute, though the general
+belief was that the building had been erected under Constantine the
+Great. In the course of some repairs made not very long ago, it became
+necessary to cut deep into the Roman brickwork, and there, embedded
+in the undisturbed mortar, was a coin of the emperor Valentinian II,
+evidently dropped from the pocket of some Roman bricklayer. That coin
+fixed a date older than which the building cannot be, though it may be
+slightly later, and it well illustrates the service rendered by fossils
+in determining geological chronology.
+
+Other methods of making out the chronology of the earth’s history have
+been proposed from time to time and all of them have their value, though
+none of them renders us independent of the use of fossils, which have the
+pre-eminent advantage of not recurring or repeating themselves at widely
+separated intervals of time, as all physical processes and changes do. An
+organism, animal or plant, that has become extinct never returns and is
+not reproduced in the evolutionary process.
+
+Great and well founded as is our confidence in fossils as fixing the
+geological date of the rocks in which they occur, it must not be
+forgotten that the succession of the different kinds of fossils in
+time was first determined from the superposition of the containing
+strata. Hence, it is always a welcome confirmation of the chronological
+inferences drawn from the study of fossils, when those inferences can
+be unequivocally established by the succession of the beds themselves.
+For example, in the Tertiary deposits of the West are two formations or
+groups of strata, called respectively the Uinta and the White River,
+which had never been known to occur in the same region and whose relative
+age therefore could not be determined by the method of superposition.
+Each of the formations, however, has yielded a large number of
+well-preserved fossil mammals, and the comparative study of these mammals
+made it clear that the Uinta must be older than the White River and that
+no very great lapse of time, geologically speaking, occurred between the
+end of the former and the beginning of the latter. Only two or three
+years ago an expedition from the American Museum of Natural History
+discovered a place in Wyoming where the White River beds lie directly
+upon those of the Uinta, thus fully confirming the inference as to the
+relative age of these two formations which had long ago been drawn from
+the comparative study of their fossil mammals.
+
+The palæontological method of determining the geological date of the
+stratified rocks is thus an indispensable means of correlating the
+scattered exposures of the strata in widely separated regions and in
+different continents, it may be with thousands of miles of intervening
+ocean. The general principle employed is that _close similarity of
+fossils in the rocks of the regions compared points to an approximately
+contemporaneous date of formation of those rocks_. This principle must
+not, however, be applied in an off-hand or uncritical manner, or it will
+lead to serious error. In the first place, the evolutionary process is a
+very slow one and geological time is inconceivably long, so that deposits
+which differ by some thousands of years may yet have the same or nearly
+the same fossils. The method is not one of sufficient refinement to
+detect such relatively small differences. To recur to the illustration
+of the development in handwriting, the palæographer can hardly do more
+than determine the decade in which a manuscript was written; no one would
+expect him to fix upon the exact year, still less the month, from the
+study of handwriting alone. As is the month in recorded human history, so
+is the millennium in the long course of the earth’s development.
+
+[Illustration: FIG. 3.—Bluff on Beaver Creek, Fremont Co., Wyoming. The
+White River beds were deposited on the worn and weathered surface of
+the Uinta, the heavy, broken line marking the separation between them.
+The valley was carved out long after the deposition of the White River
+strata.]
+
+In the second place, there are great differences in the contemporary life
+of separate regions and such geographical differences there have always
+been, so far as we can trace back the history of animals and plants. A
+new organism does not originate simultaneously all over the world but,
+normally at least, in a single area and spreads from that centre until
+it encounters insuperable obstacles. Such spreading is a slow process
+and hence it is that new forms often appear in one region much earlier
+than in others and in the very process of extending their range, the
+advancing species may themselves be considerably modified and reach their
+new and distant homes as different species from those which originated
+the movement. Extinction, likewise, seldom occurs simultaneously over
+the range of a group, but now here and now there in a way that to our
+ignorance appears to be arbitrary and capricious. The process may go on
+until extinction is total, or may merely result in a great restriction of
+the range of a given group, or may break up that range into two or more
+distinct areas.
+
+Of such incomplete extinctions many instances might be given, but one
+must suffice. The camel-tribe, strange as it may appear, originated in
+North America and was long confined to that continent, while at the
+present day it is represented only by the llamas of South America and
+the true camels of Asia, having completely vanished from its early home.
+These facts and a host of similar ones make plain how necessary it is to
+take geographical considerations into account in all problems that deal
+with the synchronizing of the rocks of separate areas and continents.
+
+Properly to estimate the significance of a difference in the fossils
+of two regions and to determine how far it is geographical, due to a
+separation in space, or geological and caused by separation in time, is
+often a very difficult matter and requires a vast amount of minute and
+detailed study. Once more, the principle involved is illustrated by the
+study of manuscripts. Down to the time when the printing press superseded
+the copyist, each of the nations of Europe had its own traditions and
+its more or less independent course of handwriting development. A great
+monastery, in which the work of copying manuscripts went on century after
+century, became an independent geographical centre with its particular
+styles. Thus the palæographer, like the geologist, is confronted by
+geographical problems as well as by those of change and development in
+general.
+
+In addition to the method of geologically dating the rocks by means of
+the fossils which they contain, there are other ways which may give a
+greater precision to the result. Climatic changes, when demonstrable,
+are of this character, for they may speedily and simultaneously affect
+vast areas of the earth’s surface or even the entire world. From time to
+time in the past, glacial conditions have prevailed over immense regions,
+several continents at once, it may be, as in one instance in which India,
+South Africa, Australia, South America were involved. The characteristic
+accumulations made by the glaciers in these widely separated regions
+must be contemporaneous in a sense that can rarely be predicated of the
+ordinary stratified rocks. Such climatic changes as the formation and
+disappearance of the ice-fields give a sharper and more definite standard
+of time comparisons than do the fossils alone, and yet the fossils are
+in turn needed to show which of several possible glacial periods are
+actually being compared.
+
+Again, great movements of the earth’s crust, which involve vast and
+widely separated regions and bring the sea in over great areas of land,
+or raise great areas into land, which had been submerged, may also yield
+more precise time-measurements, because occurring within shorter periods
+than do notable changes in the system of living things. Such changes in
+animals and plants may be compared to the almost imperceptible movement
+of the hour-hand of a clock, while the recorded climatic revolutions
+and crustal movements often supply the place of the minute-hand. It is
+obvious, however, that if the hour-hand be wanting, the minute-hand
+alone can be of very limited use. There have been a great many vast
+submergences and emergences of land in the history of the earth, and only
+the fossils can give us the assurance that we are comparing the same
+movement in distant continents, and not two similar movements separated
+by an enormous interval of time.
+
+It may thus fairly be admitted that it is possible to arrange the rocks
+which compose the accessible parts of the earth’s crust in chronological
+order and to correlate in one system the rocks of the various continents.
+The terms used for the more important divisions of geological time are,
+in descending order of magnitude, era, period, epoch, age or stage, and
+the general scheme of the eras and periods, which is in almost uniform
+use throughout the world, is given in the table, which is arranged so as
+to give the succession graphically, with the most ancient rocks at the
+bottom and the latest at the top.
+
+  Cenozoic era      { Quaternary period
+                    { Tertiary period
+
+                    { Cretaceous period
+  Mesozoic era      { Jurassic period
+                    { Triassic period
+
+                    { Permian period
+                    { Carboniferous period
+  Palæozoic era     { Devonian period
+                    { Silurian period
+                    { Ordovician period
+                    { Cambrian period
+
+  Pre-Cambrian eras { Algonkian period
+                    { Archæan period
+
+It must not be supposed that all the divisions of similar rank, such as
+the eras, for example, were of equal length, as measured by the thickness
+of the rocks assigned to those divisions. On the contrary, they must
+have been of very unequal length and are of very different divisibility.
+The Pre-Cambrian eras, with only two periods, were probably far longer
+than all subsequent time, and all that the major divisions imply is that
+they represent changes in the system of life of approximately equivalent
+importance. It is impossible to give any trustworthy estimate of the
+actual lengths of these divisions in years, though many attempts to do so
+have been made. All that can be confidently affirmed is that geological
+time, like astronomical distances, is of inconceivable vastness and its
+years can be counted only in hundreds of millions.
+
+To discuss in any intelligible manner the history of mammals, it will be
+necessary to go much farther than the above table in the subdivision of
+that part of geological time in which mammalian evolution ran its course.
+As mammals represent the highest stage of development yet attained in the
+animal world, it is only the latter part of the earth’s history which
+is concerned with them; the earlier and incomparably longer portion of
+that history may be passed over. Mammals are first recorded in the later
+Triassic, the first of the three periods which make up the Mesozoic era.
+They have also been found, though very scantily, in the other Mesozoic
+periods, the Jurassic and Cretaceous, but it was the Cenozoic era that
+witnessed most of the amazing course of mammalian development and
+diversification, and hence the relatively minute subdivisions necessary
+for the understanding of this history deal only with the Cenozoic, the
+latest of the great eras.
+
+In the subjoined table the periods and epochs are those which are in
+general use throughout the world, the ages and stages are those which
+apply to the western interior of North America, each region, even of the
+same continent, requiring a different classification. The South American
+formations are given in a separate table, as it is desirable to avoid the
+appearance of an exactitude in correlation which cannot yet be attained.
+
+                           CENOZOIC ERA
+
+  Quaternary period { Recent epoch
+                    { Pleistocene epoch = Glacial and Interglacial stages.
+
+                    { Pliocene epoch
+                    { Miocene epoch
+  Tertiary period   { Oligocene epoch
+                    { Eocene epoch
+                    { Paleocene epoch
+
+Continuing the subdivision of the Tertiary period still farther, we have
+the following arrangement:
+
+                  TERTIARY PERIOD (North America)
+
+              { Upper    Wanting
+              { Middle   Blanco age
+  _Pliocene_  {        { Thousand Creek age
+              { Lower  { Snake Creek age
+              {        { Republican River age
+
+              { Upper    Loup Fork age
+  _Miocene_   { Middle   Deep River age
+              { Lower    Arikaree age
+
+  _Oligocene_ { Upper    John Day age
+              { Lower    White River age
+
+              { Upper    Uinta age
+  _Eocene_    { Middle   Bridger age
+              { Lower  { Wind River age
+                       { Wasatch age
+
+  _Paleocene_ { Upper    Torrejon age } Fort Union
+              { Lower    Puerco age   }
+
+This is a representative series of the widespread and manifold non-marine
+Tertiary deposits of the Great Plains, but a much more extensive and
+subdivided scheme would be needed to show with any degree of fullness
+the wonderfully complete record of that portion of the continent during
+the Tertiary period. A much more elaborate table will be found in
+Professor Osborn’s “Age of Mammals,” p. 41. There are some differences
+of practice among geologists as to this scheme of classification, though
+the differences are not those of principle. No question arises concerning
+the reality of the divisions, or their order of succession in time, but
+merely as to the rank or relative importance which should be attributed
+to some of them, and that is a very minor consideration.
+
+Much greater difficulty and, consequently, much more radical differences
+of interpretation arise when the attempt is made to correlate or
+synchronize the smaller subdivisions, as found in the various continents,
+with one another, because of the geographical differences in contemporary
+life. Between Europe and North America there has always been a certain
+proportion of mammalian forms in common, a proportion that was at
+one time greater, at another less, and this community renders the
+correlation of the larger divisions of the Tertiary in the two continents
+comparatively easy, and even in the minor subdivisions very satisfactory
+progress has been made, so that it is possible to trace in some detail
+the migrations of mammals from the eastern to the western hemisphere and
+_vice versa_. Such intermigrations were made possible by the land-bridges
+connecting America with Europe across the Atlantic, perhaps on the line
+of Greenland and Iceland, and with Asia where now is Bering Strait.
+These connections were repeatedly made and repeatedly broken during the
+Mesozoic and Cenozoic eras down to the latest epoch, the Pleistocene.
+By comparing the fossil mammals of Europe with those of North America
+for any particular division of geological time, it is practicable to
+determine whether the way of intermigration was open or closed, because
+separation always led to greater differences between the faunas of the
+two continents through divergent evolution.
+
+Correlation with South America is exceedingly difficult and it is in
+dealing with this problem that the widest differences of opinion have
+arisen among geologists. Through nearly all the earlier half of the
+Tertiary period the two Americas were separated and, because of this
+separation, their land mammals were utterly different. Hence, the lack
+of elements common to both continents puts great obstacles in the way of
+establishing definite time-relations between their geological divisions.
+Only the marine mammals, whales and dolphins, were so far alike as to
+offer some satisfactory basis of comparison. When, in the later Tertiary,
+a land-connection was established between the two continents, migrations
+of mammals from each to the other began, and thenceforward there were
+always certain elements common to both, as there are to-day. In spite
+of the continuous land between them, the present faunas of North and
+South America are very strikingly different, South America being, with
+the exception of Australia, zoölogically the most peculiar region of the
+earth.
+
+In the following table of the South American Cenozoic, the assignment of
+the ages to their epochs is largely tentative, especially as regards the
+more ancient divisions, and represents the views generally held by the
+geologists of Europe and the United States; those of South America, on
+the contrary, give an earlier date to the ages and stages and refer the
+older ones to the Cretaceous instead of the Tertiary.
+
+                       CENOZOIC ERA (South America)
+
+  Quaternary period { Recent epoch
+                    { Pleistocene epoch—Pampean Beds, Brazilian caverns
+
+                    {                 { Monte Hermoso age
+                    { Pliocene epoch  { Catamarca age
+                    {                 { Paraná age
+                    {
+  Tertiary period   { Miocene epoch   { Santa Cruz age
+                    {                 { Patagonian age
+                    {
+                    { Oligocene epoch { Deseado age (_Pyrotherium_ Beds)
+                    {                 { Astraponotus Beds
+                    {
+                    { Eocene epoch    { Casa Mayor age (_Notostylops_ Beds)
+
+The Pleistocene and Pliocene deposits are most widely distributed over
+the Pampas of Argentina, but the former occur also in Ecuador, Brazil,
+Chili, and Bolivia. The other formations cover extensive areas in
+Patagonia, and some extend into Tierra del Fuego.
+
+We have next to consider the methods by which past geographical
+conditions may be ascertained, a task which, though beset with
+difficulties, is very far from being a hopeless undertaking. As has
+already been pointed out, it is perfectly possible for the geologist to
+determine the circumstances of formation of the various kinds of rocks,
+to distinguish terrestrial from aquatic accumulations and, among the
+latter, to identify those which were laid down in the sea and those which
+were formed in some other body of water. By platting on a map all the
+marine rocks of a given geological date, an approximate estimate may be
+formed as to the extension of the sea over the present land for that
+particular epoch. It is obvious, however, that for those areas which
+then were land and now are covered by the sea, no such direct evidence
+can be obtained, and only indirect means of ascertaining the former
+land-connections can be employed. It is in the treatment of this indirect
+evidence that the greatest differences of opinion arise and, if two
+maps of the same continent for the same epoch, by separate authors, be
+compared, it will be seen that the greatest discrepancies between them
+are concerning former land-connections and extensions.
+
+The only kind of indirect evidence bearing upon ancient land-connections,
+now broken by the sea, that need be considered here is that derived from
+the study of animals and plants, both recent and fossil. All-important in
+this connection is the principle that the same or closely similar species
+do not arise independently in areas between which there is no connection.
+It is not impossible that such an independent origin of organisms which
+the naturalist would class as belonging to the same species may have
+occasionally taken place, but, if so, it must be the rare exception to
+the normal process. This principle leads necessarily to the conclusion
+that the more recently and broadly two land-areas, now separated by the
+sea, have been connected, the more nearly alike will be their animals
+and plants. Such islands as Great Britain, Sumatra and Java must have
+been connected with the adjacent mainland within a geologically recent
+period, while the extreme zoölogical peculiarity of Australia can be
+explained only on the assumption that its present isolation is of very
+long standing. The principle applies to the case of fossils as well as to
+that of modern animals, and has already been made use of, in a preceding
+section, in dealing with the ancient land-connections of North America.
+It was there shown that the connection of this continent with the Old
+World and the interruptions of that connection are reflected and recorded
+in the greater or less degree of likeness in the fossil mammals at any
+particular epoch. Conversely, the very radical differences between the
+fossil mammals of the two Americas imply a long-continued separation
+of those two continents, and their junction in the latter half of the
+Tertiary period is proved by the appearance of southern groups of mammals
+in the northern continent, and of northern groups in South America.
+
+Inasmuch as the connection between North and South America still
+persists, the geology of the Isthmus of Panama should afford testimony
+in confirmation of the inferences drawn from a study of the mammals. Of
+course, the separating sea did not necessarily cross the site of the
+present isthmus; it might have cut through some part of Central America,
+but a glance at the map immediately suggests the isthmus as the place
+of separation and subsequent connection. As a matter of fact, isthmian
+geology is in complete accord with the evidence derived from the mammals.
+Even near the summit of the hills which form the watershed between the
+Atlantic and the Pacific and through which the great Culebra Cut passes,
+are beds of marine Tertiary shells, showing that at that time the land
+was completely submerged. This does not at all preclude the possibility
+of other transverse seas at the same period; indeed, much of Central
+America was probably under the sea also, but the geology of that region
+is still too imperfectly known to permit positive statements.
+
+When several different kinds of testimony, each independent of the other,
+can be secured and all are found to be in harmony, the strength of the
+conclusion is thereby greatly increased. Many distinct lines of evidence
+support the inference that North and South America were completely
+severed for a great part of the Tertiary period. This is indicated in the
+clearest manner, not only by the geological structure of the Isthmus and
+by the mammals, living and extinct, as already described, but also by the
+fresh-water fishes, the land-shells, the reptiles and many other groups
+of animals and plants.
+
+The distribution of marine fossils may render the same sort of service
+in elucidating the history of the sea as land-mammals do for the
+continents, demonstrating the opening and closing of connections between
+land-areas and between oceans. The sea, it is true, is one and undivided,
+the continental masses being great islands in it, but, nevertheless,
+the sea is divisible into zoölogical provinces, just as is the land.
+Temperature, depth of water, character of the bottom, etc., are factors
+that limit the range of marine organisms, as climate and physical
+barriers circumscribe the spread of terrestrial animals. Professor Perrin
+Smith has shown that in the Mesozoic era Bering Strait was repeatedly
+opened and closed, and that each opening and closing was indicated by
